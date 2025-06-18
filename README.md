@@ -22,6 +22,8 @@ GitHub é repositório online onde pessoas e equipes podem criar, armazenar, edi
 
 Tem uma proposta de prática docente em Turismo e Hospitalidade? Compartilhe seu conhecimento!
 
+A colaboração acontece no Wiki, neste link - https://github.com/repositoriodepraticasdocentes/repositoriodepraticasdocentes/wiki
+
 📫 Em caso de dúvidas, entre em contato por e-mail com mtgalves@gmail.com 
 
 
