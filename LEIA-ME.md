@@ -8,6 +8,8 @@ Os espaços de aprendizagem carregam, por sua própria natureza, característica
 
 As discussões e tratativas sobre o Ensino Superior Brasileiro caminham ao encontro da hibridez (BRASIL, 2023), a exemplo do Parecer 34/2023 do Conselho Pleno do Conselho Nacional de Educação (que alterou o Parecer 14/2022), no qual se propõe Projeto de Resolução que institui Diretrizes Nacionais para ensino e aprendizado híbrido, mediado por tecnologia de informação e comunicação.
 
+No mesmo sentido,  o Decreto 12.456, de 19 de Maio de 2025, que ficou conhecido como o “Marco Regulatório do EaD”, dispôs sobre a oferta de educação a distância por instituições de educação superior em cursos de graduação e destacou como princípios o desenvolvimento de processos de ensino e aprendizagem e de materiais didáticos diversificados e plurais, do desenvolvimento de habilidades e competências diversas mediante uso de meios de tecnologias de informação e comunicação e a valorização da docência. 
+
 No entanto, o uso de metodologias ativas por docentes no Ensino Superior ainda enfrenta resistência, mesmo em um contexto de hibridez. Neste sentido, indaga-se se um Repositório colaborativo de Práticas Docentes pode auxiliar o planejamento docente, em uma perspectiva de hibridez.
 
 ### Qual é o objetivo? 💬
