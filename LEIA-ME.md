@@ -23,7 +23,7 @@ O wiki no GitHub é um espaço para quem quer aprender, para quem quer ensinar e
 GitHub é repositório online onde pessoas e equipes podem criar, armazenar, editar, versionar e compartilhar arquivos, projetos e documentos de forma colaborativa.
 
 ### Tem uma proposta de prática docente em Turismo e Hospitalidade? ⚡
-Compartilhe seu conhecimento em Discussões e apoie a curadoria de Objetos de Aprendizagem!
+Compartilhe seu conhecimento em Discussões (Discussions) e apoie a curadoria de Objetos de Aprendizagem!
 
 https://github.com/repositoriodepraticasdocentes/repositoriodepraticasdocentes/discussions
 📫 Em caso de dúvidas, entre em contato por e-mail com mtgalves@gmail.com 
